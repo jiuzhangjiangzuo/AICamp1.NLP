@@ -1,0 +1,5 @@
+notebook==6.0.3
+numpy==1.18.5
+matplotlib==3.0.3
+pandas==0.25.3
+tensorflow==2.2.0
