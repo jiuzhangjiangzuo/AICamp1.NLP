@@ -16,6 +16,11 @@ Then unzip it,create a data dir, and put it in data directory
 
 And that means you are good to go.``
 
+## Virtual Environment Setup, Tensorflow 2.0 compatible (2020/8/1)
+conda create --name nlp python=3.5     
+conda activate nlp        
+pip install -r requirements.txt       
+
 
 There should be three ipython notebooks in the directory:
 
@@ -28,3 +33,4 @@ If you encounter any problem about the code, you can either contact me directly 
 
 Finally, thank you guys for playing with my code.
 Farewell and good luck.
+
