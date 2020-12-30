@@ -1,9 +1,10 @@
-notebook==6.0.3
-numpy==1.18.5
-matplotlib==3.0.3
-pandas==0.25.3
-tensorflow==2.2.0
-tensorflow-addons==0.10.0
+notebook
+numpy
+matplotlib==3.2.2
+pandas
+tensorflow
+tensorflow-addons
+tensorflow-datasets
 word2vec==0.10.6
 sklearn
 pypinyin
