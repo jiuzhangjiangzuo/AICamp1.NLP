@@ -8,3 +8,5 @@ tensorflow-datasets
 word2vec==0.10.6
 sklearn
 pypinyin
+bert-serving-server
+bert-serving-client
